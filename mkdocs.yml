@@ -1,0 +1,11 @@
+site_name: awesome-nostr-japan
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: purple
+    accent: blue
+
+extra_css:
+  - stylesheets/extra.css

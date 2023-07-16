@@ -10,8 +10,6 @@ theme:
   language: ja
   #logo: image/logo.png
   #favicon: image/favicon.png
-  features:
-    - navigation.tabs
   palette:
     scheme: slate
     primary: purple

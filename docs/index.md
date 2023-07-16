@@ -1,29 +1,29 @@
 # awesome-nostr-japan
 
-Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bots created by Japanese.
+日本の [nostr](https://nostr.com/) 成果物まとめ。 日本ユーザーが作成したソフトウェア、Webサービス、クライアント、Bot.
 
-## Relays
+## リレー
 
-* `wss://relay.nostr.wirednet.jp` - World wide relay by [imksoo](https://github.com/imksoo)
-* `wss://relay-jp.nostr.wirednet.jp` - Japanese oriented relay by [imksoo](https://github.com/imksoo)
+* `wss://relay.nostr.wirednet.jp` - World wide リレーy by [imksoo](https://github.com/imksoo)
+* `wss://relay-jp.nostr.wirednet.jp` - 日本ユーザー向けリレー by [imksoo](https://github.com/imksoo)
 * `wss://ipv6.nostr.wirednet.jp` - ipv6 relay by [imksoo](https://github.com/imksoo)
-* `wss://nostr.h3z.jp` - Free relay by [h3z](https://h3z.jp/)
-* `wss://nostr-paid.h3z.jp` - Paid relay by [h3z](https://h3z.jp/)
-* `wss://nostr-world.h3z.jp` - Relay to access "nostr.h3z.jp" from overseas by [h3z](https://h3z.jp/)
+* `wss://nostr.h3z.jp` - 自由リレー by [h3z](https://h3z.jp/)
+* `wss://nostr-paid.h3z.jp` - 有料リレー by [h3z](https://h3z.jp/)
+* `wss://nostr-world.h3z.jp` - 海外から "nostr.h3z.jp" にアクセスするためのリレー by [h3z](https://h3z.jp/)
 * `wss://nostr.holybea.com` by [ほりべあ](https://holybea.com)
 * `wss://nostr.fediverse.jp` by [αυγοτάραχο σολωμου](https://nostx.shino3.net/npub1xmqfm9s0yxyadzjh0cp7gsf7fxy0xfgaq23cp9p7fnee6cehrlxq6c6tkw)
 * `wss://nostr-relay.nokotaro.com` by [Nokotaro Takeda](https://nostx.shino3.net/npub12ftld459xqw7s7fqnxstzu7r74l5yagxztwcwmaqj4d24jgpj2csee3mx0)
  
 ## Web Services
 
-* [Nostrends](https://nostrends.vercel.app) - Trending posts on nostr. by [akiomik](https://github.com/akiomik)
-* [nostrbuzzs](https://nostrbuzzs.deno.dev) - Trending nostr's buzz word by [darashi](https://github.com/darashi)
-* [nosutora](https://nosutora.com) - Get NIP-05 by https://iris.to/piyo@nosutora.com
-* [nostr-post-checker](https://koteitan.github.io/nostr-post-checker/) - post checker for nostr protocol. by [koteitan](https://github.com/koteitan)
-* [Nosli](https://nosli.vercel.app) - Create curated list of posts on nostr with NIP-23 backend. by [akiomik](https://github.com/akiomik)
-* [nostr-picker](https://penpenpng.github.io/nostr-picker/) - Nostr Picker by [penpenpng](https://github.com/penpenpng)
-* [Nostr村放送局(nostradio)](https://nostradio.deno.dev/) - Speaking nostr's post on web radio by [darashi](https://github.com/darashi)
-* [murasaki](https://github.com/darashi/murasaki) - Nostr speaker on web with [VOICEVOX](https://voicevox.hiroshiba.jp/) by [darashi](https://github.com/darashi)
+* [Nostrends](https://nostrends.vercel.app) - nostr投稿トレンド by [akiomik](https://github.com/akiomik)
+* [nostrbuzzs](https://nostrbuzzs.deno.dev) - nostrのパスワードのトレンド by [darashi](https://github.com/darashi)
+* [nosutora](https://nosutora.com) - NIP-05ドメイン認証を簡単にできるやつ by https://iris.to/piyo@nosutora.com
+* [nostr-post-checker](https://koteitan.github.io/nostr-post-checker/) - nostr protocol 投稿・イベントチェッカー. by [koteitan](https://github.com/koteitan)
+* [Nosli](https://nosli.vercel.app) -  NIP-23 バックエンドを用いたnostr投稿まとめ作成ツール. by [akiomik](https://github.com/akiomik)
+* [nostr-picker](https://penpenpng.github.io/nostr-picker/) - お気に入り投稿を取得するツール by [penpenpng](https://github.com/penpenpng)
+* [Nostr村放送局(nostradio)](https://nostradio.deno.dev/) - nostrの投稿を読み上げる放送局 by [darashi](https://github.com/darashi)
+* [murasaki](https://github.com/darashi/murasaki) - [VOICEVOX](https://voicevox.hiroshiba.jp/)を用いてタイムラインを読み上げるツール by [darashi](https://github.com/darashi)
 * [Speaking nostr's post on web radio by murasaki](http://ik1-219-79732.vs.sakura.ne.jp:5000/nostr_listen.html) by [淀川](https://nostx.shino3.net/npub15w7wp9wdp6p53vy5eysph5xryu82ltmc7am9zl6pqyexmt6ukllst6ddy2)
 * [Nosaray](https://github.com/jiftechnify/nosaray) - Wayback Machine for Nostr by [jiftechnify](https://github.com/jiftechnify)
 * [nostr-notes-duplicate](https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html) - Post synchronization tool to multiple relays  by [imksoo](https://github.com/imksoo)
@@ -35,7 +35,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostrbbs](https://test.ikeji.ma/nostrbbs) - BBS using nostr as data storage by [ikeji](https://github.com/ikeji)
 * [nostr-reversi](https://github.com/studiokaiji/nostr-reversi) - Reversi working on Nostr by [kaiji](https://github.com/studiokaiji)
  
-## Web Clients
+## Web クライアント
 
 * [nostter](http://nostter.vercel.app) - Nostr client for web. by [SnowCait](https://github.com/SnowCait)
 * [Rabbit](https://syusui-s.github.io/rabbit/) - A nostr client like TweetDeck made with SolidJS. by [syusui-s](https://github.com/syusui-s)
@@ -46,21 +46,21 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [Nostr playground](https://snowcait.github.io/nostr-playground/) - JSON-based Nostr web client written in plain JavaScript. by [SnowCait](https://github.com/SnowCait)
 * [Angolmois](https://github.com/nikolat/angolmois) - Retrieve posts from Nostr and send SSTP to Ukagaka. by [nikolat](https://github.com/nikolat)
  
-## CLI Clients
+## CLI クライアント
 
 * [algia](https://github.com/mattn/algia) - A cli application for nostr by [mattn](https://github.com/mattn)
  
-## Relay implementations
+## リレー実装
 
 * [nostr-relay](https://github.com/mattn/nostr-relay) - sqlite3 friendly nostr relay. backup by [litestream](https://litestream.io/). by [mattn](https://github.com/mattn)
 * [searchnos](https://github.com/darashi/searchnos) - An experimental implementation of NIP-50. by [darashi](https://github.com/darashi)
  
-## Tools
+## ツール
 
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS's keychain or YubiKey to protect your private keys.  by [susumuota](https://github.com/susumuota)
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr]) - Chrome extension to share URL of an active tab on Nostr. by [penpenpng](https://github.com/penpenpng)
  
-## Bots
+## Bot
 
 * [haiku](https://iris.to/haiku) - [Haiku ](https://en.wikipedia.org/wiki/Haiku) collector by [mattn](https://github.com/mattn)
 * [golang_news](https://iris.to/golang_news@mattn.github.io) - [Go](https://go.dev) language news by [mattn](https://github.com/mattn)
@@ -95,7 +95,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [やる夫bot](https://nostx.shino3.net/npub1vf4huvhkfhgvys2qf4wlmncf855dzd3c6894mw2snktpxzh08vdsgcgkxx) - Communication bots powered by ChatGPT by [Hakkadaikon](https://github.com/Hakkadaikon)
 * [kojiraBot](https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64) - A kojira bot, 呼んだ？ by [imksoo](https://github.com/imksoo/nostr-kojirabot)
  
-## Libaries
+## ライブラリ
 
 * [nostr-fetch](https://github.com/jiftechnify/nostr-fetch) - A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays. by [jiftechnify](https://github.com/jiftechnify)
 * [rx-nostr](https://github.com/penpenpng/rx-nostr) - A library based on RxJS, which allows Nostr applications to easily communicate with relays. by [penpenpng](https://github.com/penpenpng)
@@ -104,19 +104,19 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [lophus](https://github.com/hasundue/lophus) - Yet another TypeScript library for Nostr. by [hasundue](https://github.com/hasundue)
 * [n8n-nodes-Nostrobots](https://github.com/ocknamo/n8n-nodes-nostrobots) - An [n8n](https://n8n.io/) node for nostr. by [ocknamo](https://github.com/ocknamo)
  
-## Books/Articles
+## 本/文献
 
 * [SoftwareDesign](https://gihyo.jp/magazine/SD) - In a few months, SoftwareDesign, a magazine published by [gihyo](https://gihyho.jp), a publisher of technical information magazines, will publish a series of articles about nostr.
     * [Software Design 2023/7](https://gihyo.jp/magazine/SD/archive/2023/202307)
 * [Hello Nostr! 先住民が教えるNostrの歩き方](https://nip-book.nostr-jp.org/book/1/) - A nostr fanzine contributed by writers and illustrators who are Japanese nostr users.
 * [nostr Scrapbox](https://scrapbox.io/nostr/) - A knowledge base about nostr in Japanese.
  
-## Blog Entries
+## ブログ記事
 
 * [Nostrプロトコル(damus)を触ってみた](https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286)
 * [Damus (ダムス) for Nostr](https://stacksats.jp/damus-nostr) - Article introducing Nostr and Damus. by [yutaro](https://nostx.shino3.net/npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0)
  
-## Slides
+## スライド
 
 * [話題の投稿がみれるサービス Nostrendsをつくったよ🤙 / About Nostrends](https://speakerdeck.com/akiomik/about-nostrends) - by [akiomik](https://github.com/akiomik)
 * [Nostr版togetterのNosliとNIP-33 / About Nosli and NIP-33](https://speakerdeck.com/akiomik/about-nosli-and-nip-33) - by [akiomik](https://github.com/akiomik)
@@ -124,7 +124,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [NIP-11a(NIP-111)の要望と変遷](https://speakerdeck.com/kappaseijin/nostr-study-meeting-1-by-kappaseijin) by [kappaseijin](https://iris.to/kappa.seijin.jp)
 * [Passkey Authentication with Nostr (NIP-07, nostr-keyx, YubiKey)](https://speakerdeck.com/s_ota/nostr-keyx-20230310) by [susumuota](https://github.com/susumuota)
  
-## Videos
+## 動画
 
 * [Nostr勉強会#0 (nostrstudy #0)](https://www.youtube.com/live/IbMhpGNhUuE?feature=share) - nostr conference 1 in Japan powered by [四谷ラボ](https://428lab.net/)
 * [Nostr勉強会#1 (nostrstudy #1)](https://www.youtube.com/live/J6wgG4epGK0?feature=share) - nostr conference 2 in Japan powered by [四谷ラボ](https://428lab.net/)

@@ -14,7 +14,7 @@
 * `wss://nostr.fediverse.jp` by [αυγοτάραχο σολωμου](https://nostx.shino3.net/npub1xmqfm9s0yxyadzjh0cp7gsf7fxy0xfgaq23cp9p7fnee6cehrlxq6c6tkw)
 * `wss://nostr-relay.nokotaro.com` by [Nokotaro Takeda](https://nostx.shino3.net/npub12ftld459xqw7s7fqnxstzu7r74l5yagxztwcwmaqj4d24jgpj2csee3mx0)
  
-## Web Services
+## Web サービス
 
 * [Nostrends](https://nostrends.vercel.app) - nostr投稿トレンド by [akiomik](https://github.com/akiomik)
 * [nostrbuzzs](https://nostrbuzzs.deno.dev) - nostrのパスワードのトレンド by [darashi](https://github.com/darashi)

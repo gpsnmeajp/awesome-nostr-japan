@@ -1,6 +1,7 @@
 # awesome-nostr-japan
 
-日本の [nostr](https://nostr.com/) 成果物まとめ。 日本ユーザーが作成したソフトウェア、Webサービス、クライアント、Bot.
+日本の [nostr](https://nostr.com/) 成果物まとめ。  
+日本ユーザーが作成したソフトウェア、Webサービス、クライアント、Bot。
 
 ## リレー
 
@@ -17,38 +18,92 @@
 ## Web サービス
 
 * [Nostrends](https://nostrends.vercel.app) - nostr投稿トレンド by [akiomik](https://github.com/akiomik)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [nostrbuzzs](https://nostrbuzzs.deno.dev) - nostrのパスワードのトレンド by [darashi](https://github.com/darashi)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [nosutora](https://nosutora.com) - NIP-05ドメイン認証を簡単にできるやつ by https://iris.to/piyo@nosutora.com
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [nostr-post-checker](https://koteitan.github.io/nostr-post-checker/) - nostr protocol 投稿・イベントチェッカー. by [koteitan](https://github.com/koteitan)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Nosli](https://nosli.vercel.app) -  NIP-23 バックエンドを用いたnostr投稿まとめ作成ツール. by [akiomik](https://github.com/akiomik)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [nostr-picker](https://penpenpng.github.io/nostr-picker/) - お気に入り投稿を取得するツール by [penpenpng](https://github.com/penpenpng)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Nostr村放送局(nostradio)](https://nostradio.deno.dev/) - nostrの投稿を読み上げる放送局 by [darashi](https://github.com/darashi)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [murasaki](https://github.com/darashi/murasaki) - [VOICEVOX](https://voicevox.hiroshiba.jp/)を用いてタイムラインを読み上げるツール by [darashi](https://github.com/darashi)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Speaking nostr's post on web radio by murasaki](http://ik1-219-79732.vs.sakura.ne.jp:5000/nostr_listen.html) by [淀川](https://nostx.shino3.net/npub15w7wp9wdp6p53vy5eysph5xryu82ltmc7am9zl6pqyexmt6ukllst6ddy2)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Nosaray](https://github.com/jiftechnify/nosaray) - Wayback Machine for Nostr by [jiftechnify](https://github.com/jiftechnify)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [nostr-notes-duplicate](https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html) - Post synchronization tool to multiple relays  by [imksoo](https://github.com/imksoo)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [NostrFlu](https://heguro.github.io/nostr-following-list-util/) - Find and display past kind:3 (Contacts) events from multiple relays, backup and etc by [heguro](https://github.com/heguro)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [NosTx](https://github.com/ShinoharaTa/Nostx) - To Nostr client transformer from note & userpub key by [ShinoharaTa](https://github.com/ShinoharaTa/Nostx)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Nostr search portal](https://nostr.hoku.in/) - Nostr portal. Big function is  a search engine in japanese. and etc. by [hoku](https://iris.to/hoku@nostr.hoku.in)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [#illust tagged notes on Nostr](https://nostr-illust.vercel.app/) -Illustration viewing by [murakmii](https://github.com/murakmii)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [BBS on Nostr](https://bbs-on-nostr.vercel.app/) - BBS using nostr as data storage https://github.com/murakmii/bbs-on-nostr by [murakmii](https://github.com/murakmii)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [nostrbbs](https://test.ikeji.ma/nostrbbs) - BBS using nostr as data storage by [ikeji](https://github.com/ikeji)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [nostr-reversi](https://github.com/studiokaiji/nostr-reversi) - Reversi working on Nostr by [kaiji](https://github.com/studiokaiji)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
  
 ## Web クライアント
 
 * [nostter](http://nostter.vercel.app) - Nostr client for web. by [SnowCait](https://github.com/SnowCait)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Rabbit](https://syusui-s.github.io/rabbit/) - A nostr client like TweetDeck made with SolidJS. by [syusui-s](https://github.com/syusui-s)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Astraea](https://astraea.mousedev.page) - Nostr client for web. by [mouse](https://iris.to/mouse_484@mousedev.page)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Nostr Feeds from relay-jp.nostr.wirednet.jp.](https://relay-jp.nostr.wirednet.jp/index.html) - Simple Nostr Relay Feed Reader by [imksoo](https://github.com/imksoo)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [GARNET](https://garnet.nostrian.net) - Nostr Public Chat(NIP-28) Client. by [murakmii](https://github.com/murakmii)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [nos.today](https://nos.today/) - search web client by [darashi](https://github.com/darashi)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Nostr playground](https://snowcait.github.io/nostr-playground/) - JSON-based Nostr web client written in plain JavaScript. by [SnowCait](https://github.com/SnowCait)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [Angolmois](https://github.com/nikolat/angolmois) - Retrieve posts from Nostr and send SSTP to Ukagaka. by [nikolat](https://github.com/nikolat)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
  
 ## CLI クライアント
 
 * [algia](https://github.com/mattn/algia) - A cli application for nostr by [mattn](https://github.com/mattn)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
  
 ## リレー実装
 
@@ -58,7 +113,11 @@
 ## ツール
 
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS's keychain or YubiKey to protect your private keys.  by [susumuota](https://github.com/susumuota)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr]) - Chrome extension to share URL of an active tab on Nostr. by [penpenpng](https://github.com/penpenpng)
+<br><img src="image/placeholder.png" width=400px></a><br><br>
+
  
 ## Bot
 
@@ -115,7 +174,8 @@
 
 * [Nostrプロトコル(damus)を触ってみた](https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286)
 * [Damus (ダムス) for Nostr](https://stacksats.jp/damus-nostr) - Article introducing Nostr and Damus. by [yutaro](https://nostx.shino3.net/npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0)
- 
+* [Nostr というのが流行っているらしい](https://zenn.dev/snowcait/scraps/6dfe34c4ac6709)
+
 ## スライド
 
 * [話題の投稿がみれるサービス Nostrendsをつくったよ🤙 / About Nostrends](https://speakerdeck.com/akiomik/about-nostrends) - by [akiomik](https://github.com/akiomik)
@@ -127,8 +187,14 @@
 ## 動画
 
 * [Nostr勉強会#0 (nostrstudy #0)](https://www.youtube.com/live/IbMhpGNhUuE?feature=share) - nostr conference 1 in Japan powered by [四谷ラボ](https://428lab.net/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IbMhpGNhUuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 * [Nostr勉強会#1 (nostrstudy #1)](https://www.youtube.com/live/J6wgG4epGK0?feature=share) - nostr conference 2 in Japan powered by [四谷ラボ](https://428lab.net/)
-  * [Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)](https://youtube.com/live/jHuMltEjp2w) - public viewing of the conference powered by [ROBO358](https://www.robo358.com/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J6wgG4epGK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* [Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)](https://youtube.com/live/jHuMltEjp2w) - public viewing of the conference powered by [ROBO358](https://www.robo358.com/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jHuMltEjp2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## License
 
@@ -137,3 +203,4 @@ MIT
 ## Author
 
 Yasuhiro Matsumoto (a.k.a. mattn)
+gpsnmeajp

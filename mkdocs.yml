@@ -1,7 +1,17 @@
 site_name: awesome-nostr-japan
+site_description: awesome-nostr-japan
+
+# 下記はPR時に直す必要ある
+site_url: https://gpsnmeajp.github.io/awesome-nostr-japan/
+repo_url: https://github.com/gpsnmeajp/awesome-nostr-japan
 
 theme:
   name: material
+  language: ja
+  #logo: image/logo.png
+  #favicon: image/favicon.png
+  features:
+    - navigation.tabs
   palette:
     scheme: slate
     primary: purple
